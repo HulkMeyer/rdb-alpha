@@ -76,3 +76,4 @@ touch countdown.sh
 chmod +x
 chmod +x counddown.sh
 chmod +x countdown.sh
+./countdown.sh
